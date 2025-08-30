@@ -17,3 +17,5 @@
 <h2 align="center">📱App design link
   <a href="https://www.figma.com/community/file/1523330784965191772/flames-app" align="center">(Figma Design❤️)
   </a></h2>
+
+  <h3 align="center">Please check my releases and download a zip file extract to install my app</h3>
